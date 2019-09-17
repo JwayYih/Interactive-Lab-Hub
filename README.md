@@ -8,4 +8,4 @@ Completed Labs for Johnway Yih - Student
 Completed Pre-Labs for Johnway Yih - Student
 
 1. Johnway Yih's Lab 1 - N/A
-2. [Johnway Yih's Pre-Lab 2](https://github.com/JwayYih/Interactive-Lab-Hub/blob/master/Pre-Labs/10%20Ideas.jpg)
+2. [Johnway Yih's Pre-Lab 2](https://github.com/JwayYih/Interactive-Lab-Hub/blob/master/Pre-Labs/Pre-Lab%202/README.md)
