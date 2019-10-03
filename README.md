@@ -6,6 +6,7 @@ Completed Labs for Johnway Yih - Student
 2. [Lab 2](//github.com/JwayYih/IDD-Fa19-Lab2)
 3. [Lab 3](https://github.com/JwayYih/IDD-Fa19-Lab3)
 4. [Lab 4](https://github.com/JwayYih/IDD-Fa19-Lab4)
+5. [Lab 5](https://github.com/JwayYih/IDD-Fa19-Lab5)
 
 Completed Pre-Labs for Johnway Yih - Student
 
